@@ -1,0 +1,8 @@
+../Core/Src/PR_INZ.c:26:6:PR_INZ_Start	8	static
+../Core/Src/PR_INZ.c:40:6:PR_INZ_Stop	8	static
+../Core/Src/PR_INZ.c:53:6:PR_INZ_Measure	8	static
+../Core/Src/PR_INZ.c:93:6:PR_INZ_M1_Move	16	static
+../Core/Src/PR_INZ.c:106:6:PR_INZ_Move_Both	24	static
+../Core/Src/PR_INZ.c:119:6:PR_INZ_M2_Move	16	static
+../Core/Src/PR_INZ.c:130:6:PR_INZ_Service	8	static
+../Core/Src/PR_INZ.c:236:6:HAL_GPIO_EXTI_Callback	16	static

@@ -1,0 +1,2 @@
+../Core/Src/ADS1115.c:17:6:ADS_Config	32	static
+../Core/Src/ADS1115.c:40:6:ADS1115_ReadRawData	32	static

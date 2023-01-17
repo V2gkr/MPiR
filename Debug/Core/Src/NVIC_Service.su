@@ -1,0 +1,8 @@
+../Core/Src/NVIC_Service.c:35:6:UART_Service_stp_config_Private	8	static
+../Core/Src/NVIC_Service.c:42:6:UART_Service_ret_config_Private	8	static
+../Core/Src/NVIC_Service.c:49:6:UART_Service_sta_config_Private	8	static
+../Core/Src/NVIC_Service.c:60:6:UART_Service_mov_config_Private	8	static
+../Core/Src/NVIC_Service.c:69:6:UART_Service_msr_config_Private	8	static
+../Core/Src/NVIC_Service.c:75:6:UART_Command_Error_Handler_Private	8	static
+../Core/Src/NVIC_Service.c:82:6:UART_Service	8	static
+../Core/Src/NVIC_Service.c:103:6:HAL_UART_RxCpltCallback	16	static
